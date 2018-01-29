@@ -20,7 +20,7 @@ h2.head {
 
 /*Body CSS File*/
 body {
-	background-color: pink;
+	/*background-color: #87CEFA;*/
 	margin: 0;
 	color: ;
 	font-family: Verdana, Helvetica;
@@ -41,6 +41,10 @@ ul {
 	font-family: Verdana;
 	background-color: #333;
 	overflow: hidden;
+	/*--For fixed nav menu--*/
+	position: fixed;
+	top: 0;
+	width: 100%;
 }
 
 li {
