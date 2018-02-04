@@ -18,6 +18,13 @@ h2.head {
 	padding: 0;
 }
 
+#head_line {
+	align-content: center;
+	background-color: red;
+	width: 90%;
+	height: 4px;
+}
+
 /*Body CSS File*/
 body {
 	background-color: #87CEFA;
@@ -34,6 +41,10 @@ To Be Done....
 */
 
 /*Navigation Menu Style*/
+#nav-list {
+	
+}
+
 ul {
 	list-style-type: none;
 	margin: 0;
